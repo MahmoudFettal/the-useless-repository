@@ -1,5 +1,5 @@
 # the-useless-repository
-This repository is usless, here you can find stupid code that I wrote just to have fun.
+This repository is useless, here you can find stupid code that I wrote just to have fun.
 If you like such content make sure to star this repository because useless code is what I do best!
 
 ## First useless idea: [Fast Typer](https://github.com/MahmoudFettal/the-useless-repository/tree/master/fast-typer)
